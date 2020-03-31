@@ -1,7 +1,5 @@
 # chachkapipsov
-Database Management Systems project
-
-DATABASE MANAGEMENT SYSTEMS
+# Database Management Systems project
 
 # Project Requirements
 
